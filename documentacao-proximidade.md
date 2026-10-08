@@ -23,7 +23,8 @@
 ---
 
 ## CAPÍTULO 1 — INTRODUÇÃO
-  * [ ] 
+
+    
 ### 1.1 Contextualização
 - **O que demonstrar:** como as redes atuais funcionam — escala de uso, o modelo de atenção que as sustenta (feed, métricas, gamificação) — e por que esse modelo culmina em conexão sem encontro.
 - **Perguntas que serão feitas:** as falas sobre "feed infinito" e "validação por métricas" estão ancoradas no *design* do produto, ou viraram crítica abstrata de plataformas? O leitor consegue reconhecer cada mecanismo citado em uma rede que ele usa?
